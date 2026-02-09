@@ -16,3 +16,6 @@ LD_result/06_output filter=lfs diff=lfs merge=lfs -text
 LD_result/hidden01_output filter=lfs diff=lfs merge=lfs -text
 LD_result/hidden02_output filter=lfs diff=lfs merge=lfs -text
 LD_result/hidden03_output filter=lfs diff=lfs merge=lfs -text
+Greedy_result/01_output filter=lfs diff=lfs merge=lfs -text
+Greedy_result/02_output filter=lfs diff=lfs merge=lfs -text
+Greedy_result/0*_output filter=lfs diff=lfs merge=lfs -text

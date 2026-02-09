@@ -4,3 +4,6 @@ input/synopsys03.txt filter=lfs diff=lfs merge=lfs -text
 input/synopsys04.txt filter=lfs diff=lfs merge=lfs -text
 input/synopsys05.txt filter=lfs diff=lfs merge=lfs -text
 input/synopsys06.txt filter=lfs diff=lfs merge=lfs -text
+input/synopsyshidden01.txt filter=lfs diff=lfs merge=lfs -text
+input/synopsyshidden02.txt filter=lfs diff=lfs merge=lfs -text
+input/synopsyshidden03.txt filter=lfs diff=lfs merge=lfs -text

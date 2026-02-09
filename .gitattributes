@@ -1,1 +1,4 @@
 input/synopsys01.txt filter=lfs diff=lfs merge=lfs -text
+input/synopsys02.txt filter=lfs diff=lfs merge=lfs -text
+input/synopsys03.txt filter=lfs diff=lfs merge=lfs -text
+input/synopsys04.txt filter=lfs diff=lfs merge=lfs -text
